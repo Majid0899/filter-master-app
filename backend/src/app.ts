@@ -11,8 +11,6 @@ app.use(cors())
 app.use(express.json());
 
 
-
-
 // Create the database connection
 createConnection()
 
